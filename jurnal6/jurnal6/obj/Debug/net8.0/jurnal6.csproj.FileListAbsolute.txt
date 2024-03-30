@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\bin\Debug\net8.0\jurnal6.exe
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\bin\Debug\net8.0\jurnal6.deps.json
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\bin\Debug\net8.0\jurnal6.runtimeconfig.json
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\bin\Debug\net8.0\jurnal6.dll
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\bin\Debug\net8.0\jurnal6.pdb
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.sourcelink.json
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.dll
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\refint\jurnal6.dll
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.pdb
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\jurnal6.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Music\jurnal6\jurnal6\obj\Debug\net8.0\ref\jurnal6.dll
